@@ -4,5 +4,4 @@ terraform {
 
 provider "digitalocean" {
   version = "~> 1.0"
-  token   = "${var.digitalocean_token}"
 }

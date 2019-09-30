@@ -1,7 +1,3 @@
-variable "digitalocean_token" {
-  description = "API token used to access digital ocean"
-}
-
 variable "droplet_name" {
   description = "Name of the droplet"
 }
